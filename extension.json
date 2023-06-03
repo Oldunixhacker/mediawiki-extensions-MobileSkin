@@ -2,7 +2,7 @@
 	"name": "Mobile Skin",
 	"author": "TylerMS887",
 	"url": "https://github.com/TylerMS887/mediawiki-extensions-MobileSkin",
-	"descriptionmsg": "mobileskin-extension-desc",
+	"description": "Switches to a mobile-friendly skin",
 	"version": "1.0",
 	"license-name": "GPL-2.0-or-later",
 	"type": "validextensionclass",
