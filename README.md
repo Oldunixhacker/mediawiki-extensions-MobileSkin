@@ -11,6 +11,17 @@ There is also a similar extension called [MobileFrontend][mobilefrontend], but i
 more functionality, so I developed this extension to drop much of the functionality
 provided by MobileFrontend.
 
+## Install
+Run this command in your MediaWiki extensions directory:
+```shell
+git clone https://github.com/TylerMS887/mediawiki-extensions-MobileSkin MobileSkin
+```
+Then, go into your MediaWiki root directory and add the following to LocalSettings.php:
+```php
+wfLoadExtension( 'MobileSkin' );
+```
+You can now trigger the extension by opening your wiki on a mobile device.
+
 ## Configuration
 * `$wgNameOfMobileSkin`
   
